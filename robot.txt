@@ -12,3 +12,4 @@ right_leg_quick_walking()
 >>>>>>> dev_feature321
 complete_translator()
 incomplete_translator()
+noisy_mic_recording()
