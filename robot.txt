@@ -4,5 +4,9 @@ walking()
 SOME_PROD_VAR='PROD VALUE'
 ROBOT_CREDENTIALS='SOME CONFIDENTIAL ROBOT CREDENTIALS'
 WALK_CONFIG='SOME PROD WALKING CONFIGURATION'
+<<<<<<< HEAD
 left_leg_quick_walking()
 >>>>>>> dev_feature123
+=======
+right_leg_quick_walking()
+>>>>>>> dev_feature321
