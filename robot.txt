@@ -11,3 +11,4 @@ left_leg_quick_walking()
 right_leg_quick_walking()
 >>>>>>> dev_feature321
 complete_translator()
+incomplete_translator()
