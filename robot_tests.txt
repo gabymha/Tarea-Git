@@ -1,1 +1,2 @@
 walking_test()\nTest completetouch robot_tests.txt
+walking_acept_test()\nUser accepted the changestouch robot_tests.txt
